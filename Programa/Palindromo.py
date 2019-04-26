@@ -54,13 +54,13 @@ class Palindromo():
 
             continua = self.verificaPalindromo(palabra)
 
+            auxpalabra = palabra.replace(palabra[continua[2]], palabra[continua[2]]+palabra[continua[1]])
+            palabra = palabra[0:continua[2]] + auxpalabra[continua[2]+1:]
+            print(palabra +"AUX"+ auxpalabra)
 
             while type(continua)==list and not continua[0]:
-                
-                auxpalabra = palabra[::-1]
-                auxpalabra = auxpalabra.replace(palabra[continua[2]], palabra[continua[1]]+palabra[continua[2]], 1)
-                palabra = auxpalabra[::-1]
-                print palabra.find("a")
+                auxpalabra = palabra.replace(palabra[continua[2]], palabra[continua[2]] + palabra[continua[1]])
+                palabra = palabra[0:continua[2]] + auxpalabra[continua[2] + 1:]
                 print ("AQUI "+palabra)
                 continua = self.verificaPalindromo(palabra)
 
