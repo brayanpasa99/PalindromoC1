@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="155c73e2-f73c-4ed2-a1f3-20fb1b99a109" name="Default Changelist" comment="" />
+    <list default="true" id="155c73e2-f73c-4ed2-a1f3-20fb1b99a109" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PalindromoC1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PalindromoC1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programa/Palindromo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programa/Palindromo.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +27,13 @@
       <file leaf-file-name="Palindromo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Programa/Palindromo.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="663">
               <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+=======
+            <state relative-caret-position="266">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+>>>>>>> Prueba1
             </state>
           </provider>
         </entry>
@@ -82,7 +91,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,7 +144,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+<<<<<<< HEAD
     <editor active="true" />
+=======
+>>>>>>> Prueba1
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -156,6 +168,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
@@ -181,8 +196,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Programa/Palindromo.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="663">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+=======
+        <state relative-caret-position="266">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+>>>>>>> Prueba1
         </state>
       </provider>
     </entry>
