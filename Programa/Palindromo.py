@@ -63,7 +63,7 @@ class Palindromo():
                 palabra = palabra[0:continua[2]] + auxpalabra[continua[2] + 1:]
                 print ("AQUI "+palabra)
                 continua = self.verificaPalindromo(palabra)
-
+            '''dada'''
 
             print(palabra)
 
